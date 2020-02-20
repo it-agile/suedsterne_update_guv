@@ -1,5 +1,4 @@
 import unittest
-from mockito import when
 
 
 class GuvEntry(object):
