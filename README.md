@@ -1,1 +1,1 @@
-# suedsterne_update_guv
+# Südsterne - Update GuV Project
